@@ -1,0 +1,11 @@
+{
+  "name": "emojwe2",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.13",
+    "gifencoder": "^1.1.0"
+  },
+  "scripts": {}
+}
